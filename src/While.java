@@ -3,7 +3,7 @@ public class While {
         int i = 200000;
         while (i <= 350000){
             System.out.println("Номер билета: " + i);
-            if (i == 210000) {
+            if (i == 205000) {
                 i = 345000;
                 System.out.println("===================");
             } else i = i + 100;
