@@ -9,5 +9,6 @@ public class While {
                 System.out.println("===================");
             } else i = i + 100;
         }
+        System.out.println("Окончание работы программы");
     }
 }
